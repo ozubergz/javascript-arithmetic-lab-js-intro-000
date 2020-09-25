@@ -6,7 +6,7 @@ function add() {
 
 }
 
-function add() {
+function subtract() {
 
 }
 
