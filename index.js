@@ -14,7 +14,7 @@ function multiply() {
 
 }
 
-function add() {
+function divide() {
 
 }
 
